@@ -12,14 +12,5 @@ Speed (KIAS) :  100 kts (knots)
 
 Example UAS's ( unmanned aircraft systems ) 
 
-Wasp III
-TACMAV
-RQ-14A/B
-Buster 
-Nighthawk
-RQ-11B
-FPASS
-RQ16A
-Pointer
-Aqua/Terra
-Puma
+Wasp III | TACMAV | RQ-14A/B | Buster |  Nighthawk | RQ-11B | FPASS | RQ16A | Pointer | Aqua/Terra | Puma
+
